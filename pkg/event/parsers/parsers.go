@@ -3,7 +3,7 @@ package parsers
 import (
 	"fmt"
 
-	"github.com/nextlinux/gopartybus"
+	partybus "github.com/nextlinux/gopartybus"
 	"github.com/wagoodman/go-progress"
 
 	"github.com/nextlinux/stereoscope/pkg/event"
